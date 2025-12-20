@@ -1,16 +1,13 @@
-# TU-GUT-SYSY-v38-Proton-Fusion-Catalyst
-Definitive Topological Bootstrap – Proton Fusion Entanglement Catalyst v1.0 (Design 12)
-
 # TU-GUT-SYSY v38: Proton Fusion Entanglement Catalyst v1.0 – Design 12
 
 **Knot-Induced Topological Enhancement of p-p Fusion Rates**  
 *Simon Soliman – Independent Researcher, Rome, Italy*  
 tetcollective.org | tetcollective@proton.me  
 
-**Publication date**: December 2025  
+**Publication date**: 20 December 2025  
 **Version**: v38
 
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)  <!-- SOSTITUISCI con DOI reale dopo pubblicazione -->
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18004272.svg)](https://doi.org/10.5281/zenodo.18004272)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Abstract
@@ -19,17 +16,17 @@ TU-GUT-SYSY v38 presents the complete formulation of Design 12: the Proton Fusio
 
 Ab initio overlap calculation yields interference parameter β ≈ 0.32. Effective field theory and QuTiP few-body simulation predict rate enhancement factors of 20–40 in hot plasma (10–100 eV) and up to 10^4–10^5 in ultra-cold hydrogen Bose-Einstein condensates.
 
-The mechanism directly builds on perfect linking conservation in ultraclean turbulence (TU-GUT-SYSY v34, DOI: 10.5281/zenodo.17932055), where classical vortices function as eternal anyon braiders. Concrete experimental setups are specified for plasma, BEC, and solid-state regimes.
+The mechanism directly builds on perfect linking conservation in ultraclean turbulence (TU-GUT-SYSY v34, DOI: 10.5281/zenodo.17932055). Concrete experimental setups are specified for plasma, BEC, and solid-state regimes.
 
 The catalyst targets pure p-p fusion, complementary to p-B11 approaches (HB11 Fusion), and offers falsifiable predictions for near-term laboratory tests.
 
-All theoretical development, calculations, and writing by Simon Soliman. AI tools used only as assistants – no co-authorship.
+All work by Simon Soliman. AI tools used only as assistants – no co-authorship.
 
 ## Repository Contents
 
 - `TU-GUT-SYSY_v38_Proton_Fusion_Catalyst.pdf` – Full manuscript
-- `TU-GUT-SYSY_v38.tex` – LaTeX source (optional)
-- `qutip_pp_anyonic_simulation.py` – Supplementary QuTiP code
+- `proton_fusion_catalyst_qutip_simulation.py` – QuTiP simulation code
+- `pp_anyonic_potential.png` – Generated potential plot
 - `README.md` – This file
 
 ## Related Works
